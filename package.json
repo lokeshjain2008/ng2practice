@@ -9,7 +9,7 @@
     "typescript"
   ],
   "engines": {
-    "node": "4.x"
+    "node": "5.x"
   },
   "scripts": {
     "prebuild": "npm run clean",
